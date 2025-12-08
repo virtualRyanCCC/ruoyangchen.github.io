@@ -1,2 +1,2 @@
 # Homepage
-This is my personal website: cen-jun.com. Go live on August 29, 2021.
+Welcome! This is the personal website of Ruoyang Chen.
